@@ -1,1 +1,1 @@
-# Human-Powered-Vehicle-Drivetrain
+# Human-Powered-Vehicle-Drivetrain - It conists of the drive train components used for the HPV, which is the chain and the crank set with teeth in order to grip the chain to tranfer the force fron thr pedals to the chain which promotes the movement of the chain. The chain is designed of links which are made from small tobes and face sections.
